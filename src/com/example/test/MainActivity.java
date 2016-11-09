@@ -14,6 +14,8 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 		
 		android.util.Log.e("Penchan", "Test");
+		
+		android.util.Log.e("Penchan", "Test 2");
     }
 
     @Override
