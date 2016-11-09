@@ -13,7 +13,9 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 		
-		android.util.Log.e("Penchan", "Test 1");
+		android.util.Log.e("Penchan", "Test");
+		
+		android.util.Log.e("Penchan", "Test 2");
     }
 
     @Override
